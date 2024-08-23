@@ -12,7 +12,7 @@ I'm eager to collaborate on challenging projects or web development opportunitie
 ### 📫 How to Reach Me
 Feel free to reach out via Discord: [osiris1118].
 <br>
-Feel free to reach out via LinkedIn: [https://www.linkedin.com/in/david-bejarano-a1867b301/].
+Feel free to reach out via LinkedIn: [https://www.linkedin.com/in/david-bejarano-a1867b301/].<br>
 I'm always open to new opportunities and connections.
 
 ### 😄 Pronouns
