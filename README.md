@@ -1,22 +1,71 @@
- <h1>👋 Hi, I’m @CalciferD</h1>
+<h1 align="center">👋 Hi, I’m @CalciferD</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Web+Developer;Software+Developer;Coffee+Lover%20☕" alt="Typing SVG" />
+</p>
 
-### 👀 About Me
-I'm passionate about AI, web, and software development. Constantly striving to learn and grow, I'm particularly focused on enhancing my skills in web development.
+---
+
+### 👨‍💻 About Me
+I'm a passionate developer with a strong interest in **AI**, **web development**, and **software engineering**. I'm constantly learning and improving my skills to create innovative and efficient solutions. My current focus is on mastering web development technologies and building responsive, user-friendly applications.
+
+---
+
+### 🛠️ Tech Stack
+Here are some of the technologies and tools I work with:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
 
 ### 🌱 Currently Learning
-I'm diving deep into web development, exploring the latest technologies and best practices to create robust and responsive web applications.
+I'm currently diving deeper into **web development**, focusing on modern frameworks and tools like **React**, **Node.js**, and **TypeScript**. I'm also exploring **AI/ML** to integrate intelligent features into my projects.
 
-### 💼 Open to Collaboration
-I'm eager to collaborate on challenging projects or web development opportunities. If you're working on something exciting, let's connect!
+---
+
+### 🤝 Open to Collaboration
+I'm always excited to collaborate on interesting projects, especially in **web development** or **AI**. If you have an idea or need a hand, feel free to reach out!
+
+---
 
 ### 📫 How to Reach Me
-Feel free to reach out via Discord: [osiris1118](https://discordapp.com/users/osiris1118).
-<br>
-Feel free to reach out via LinkedIn: [DavidB](https://www.linkedin.com/in/david-bejarano-a1867b301/).<br>
-I'm always open to new opportunities and connections.
+Let's connect! You can find me on:
+
+<p align="left">
+  <a href="https://discordapp.com/users/osiris1118">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.linkedin.com/in/david-bejarano-a1867b301/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
 
 ### 😄 Pronouns
 He/Him
 
+---
+
 ### ⚡ Fun Fact
- I’m a coffee enthusiast who believes that a good cup of coffee can solve any coding problem.
+I’m a **coffee enthusiast** ☕ who believes that a good cup of coffee can solve any coding problem. Fun fact: I once debugged a tricky issue after taking a coffee break!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CalciferD&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CalciferD&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CalciferD&color=blue&style=flat" alt="Profile Views" />
+</p>
