@@ -59,11 +59,11 @@ I’m a **coffee enthusiast** ☕ who believes that a good cup of coffee can sol
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CalciferD&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CalciferD&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CalciferD&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CalciferD&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
