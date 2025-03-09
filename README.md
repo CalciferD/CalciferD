@@ -66,6 +66,7 @@ I’m a **coffee enthusiast** ☕ who believes that a good cup of coffee can sol
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CalciferD&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=CalciferD&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
+
