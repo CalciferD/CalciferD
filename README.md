@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I’m @CalciferD</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Web+Developer;Software+Developer;Coffee+Lover%20☕" alt="Typing SVG" />
+
+
+<p align="center" width=100%>
+  <img width="100%" height="50px"src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&center=true&letterSpacing=0.3rem&duration=6000&lines=AI%20Enthusiast+;Web%20Developer;Software%20Developer;Coffee%20Lover%20" alt="Typing SVG"/>
 </p>
 
 ---
@@ -59,12 +61,12 @@ I’m a **coffee enthusiast** ☕ who believes that a good cup of coffee can sol
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CalciferD&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CalciferD&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app.com/?user=CalciferD&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CalciferD&theme=radical"/></a>
+</p>  
 <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CalciferD&theme=merko&card_width=501&hide_total_contributions=true" alt="GitHub Streak" /></a>-->
 
 <p align="right">
