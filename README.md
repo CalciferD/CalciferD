@@ -11,6 +11,22 @@
 I'm a passionate developer with a strong interest in **AI**, **web development**, and **software engineering**. I'm constantly learning and improving my skills to create innovative and efficient solutions. My current focus is on mastering web development technologies and building responsive, user-friendly applications.
 
 
+<h3 align="center">Badges</h3>
+
+<div align="center">
+  <details>
+    <summary><strong> My current badges🏅</strong></summary>
+    <br>
+    <p align="center">
+      <img src="assets/Badge-Spring.png" alt="Certificado de curso Spring" width="120"/>
+      <img src="assets/Badge-Conversor.png" alt="Certificado de curso Conversor" width="120"/>
+      <img src="assets/badge literalura.png" alt="Certificado de curso Literalura" width="120"/>
+    </p>
+  </details>
+</div>
+
+
+
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalciferD&layout=compact&theme=radical)-->
 
 <!--![example workflow](https://github.com/CalciferD/tu-repo/actions/workflows/main.yml/badge.svg)-->
