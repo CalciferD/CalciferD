@@ -10,6 +10,18 @@
 ### 👨‍💻 About Me
 I'm a passionate developer with a strong interest in **AI**, **web development**, and **software engineering**. I'm constantly learning and improving my skills to create innovative and efficient solutions. My current focus is on mastering web development technologies and building responsive, user-friendly applications.
 
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalciferD&layout=compact&theme=radical)-->
+
+<!--![example workflow](https://github.com/CalciferD/tu-repo/actions/workflows/main.yml/badge.svg)-->
+
+<!--![Last Commit](https://img.shields.io/github/last-commit/CalciferD/CalciferD)-->
+
+<!--![version](https://img.shields.io/github/package-json/v/CalciferD/tu-repo)-->
+
+
+
+
 ---
 
 ### 🛠️ Tech Stack
